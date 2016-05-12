@@ -12,135 +12,75 @@
 	 xml:space="preserve">
 <style type="text/css">
 <![CDATA[
-	/* .st0{
-		fill:#FFFFFE;
-		fill:transparent;
+	.st0{
+		fill:#002B49;
+		/* fill:transparent; */
 		stroke:#002947;
 		stroke-miterlimit:10;
 		stroke-dasharray:12;
-	} */
-	.st1{
-		/* fill:#1F120D; */
-		fill:transparent;
 	}
-	/* .st2{fill:#002B49;stroke:#FFFFFF;stroke-miterlimit:10;stroke-dasharray:12;} */
+	.st1{
+		fill:#1F120D;
+		/* fill:transparent; */
+	}
+	.st2{fill:#FFF;
+		/* stroke:#FFFFFF; */
+		stroke-miterlimit:10;stroke-dasharray:12;}
 	.st3{
-		/* fill:#FFFFFF; */
-		fill:transparent;
-		stroke:#FFFFFF;
-		stroke-miterlimit:10;
-		stroke-dasharray:12;
+		fill:#FFFFFF;
+		/* fill:transparent; */
+		/* stroke:#FFFFFF; */
+		/* stroke-miterlimit:10; */
+		/* stroke-dasharray:12; */
 	}
 	.st4{
-		/* fill:#FFFFFF; */
-		fill:transparent;
+		fill:#FFFFFF;
+		/* fill:transparent; */
 	}
 	.st5{
 		display:none;opacity:0.2;
-		/* fill:#1F120D; */
-		fill:transparent;
+		fill:#1F120D;
+		/* fill:transparent; */
 		enable-background:new    ;
 	}
 	.st6{
 		display:inline;
 	}
 	.st7{
-		/* fill:#002B49; */
-		fill:transparent;
+		fill:#FFF;
+		/* fill:transparent; */
 	}
 	.st8{
 		display:none;
 	}
 	
 	/* ET_LOGO */
-	.st0{
+	/*.st0{
 		fill:#002B49;
-		/* fill:none; */
+		/* fill:none; 
 		stroke:#FFF;
 		stroke-miterlimit:10;
 		stroke-dasharray:300;
 		stroke-dashoffset: 0;
 		stroke-width:2;
-		-webkit-animation: animacion_ET_logo 6s forwards ease-in-out 1s infinite alternate;
-		-moz-animation: animacion_ET_logo 6s forwards ease-in-out 1s infinite alternate;
-		-o-animation: animacion_ET_logo 6s forwards ease-in-out 1s infinite alternate;
-		animation: animacion_ET_logo 6s forwards ease-in-out 1s infinite alternate;
+		/* -webkit-animation: animacion_ET_logo 6s forwards ease-in-out 1s infinite alternate; */
+		/* -moz-animation: animacion_ET_logo 6s forwards ease-in-out 1s infinite alternate; */
+		/* -o-animation: animacion_ET_logo 6s forwards ease-in-out 1s infinite alternate; */
+		/* animation: animacion_ET_logo 6s forwards ease-in-out 1s infinite alternate; */
 	}
 	/* KYK */
-	.st2{
+	/*.st2{
 		fill:#002B49;
-		/* fill:none; */
+		/* fill:none; 
 		stroke:#FFF;
 		stroke-width:2;
 		stroke-dasharray:1000;
 		stroke-dashoffset: 0;
 		stroke-miterlimit:10;
-		-webkit-animation: animacion_kK 6s forwards ease-in-out infinite alternate;
-		-moz-animation: animacion_kK 6s forwards ease-in-out infinite alternate;
-		-o-animation: animacion_kK 6s forwards ease-in-out infinite alternate;
-		animation: animacion_kK 6s forwards ease-in-out infinite alternate;
-	}
-	/* Keyframes para K */
-	@-webkit-keyframes animacion_kK{
-		from{
-			stroke-dashoffset: 1000;
-		}
-		to{
-			stroke-dashoffset: 0;
-		}
-	}
-	@-moz-keyframes animacion_kK{
-		from{
-			stroke-dashoffset: 1000;
-		}
-		to{
-			stroke-dashoffset: 0;
-		}
-	}
-	@keyframes animacion_kK{
-		from{
-			stroke-dashoffset: 1000;
-		}
-		to{
-			stroke-dashoffset: 0;
-		}
-	}
-	/* Keyframes para ET de KK */
-	@-webkit-keyframes animacion_ET_logo{
-		0%{
-			stroke-dashoffset: 300;
-		}
-		80%{
-			stroke-dashoffset: 0;
-		}
-		100%{
-			fill:#FFF;
-			stroke:#002B49:
-		}
-	}
-	@-moz-keyframes animacion_ET_logo{
-		0%{
-			stroke-dashoffset: 300;
-		}
-		80%{
-			stroke-dashoffset: 0;
-		}
-		100%{
-			fill:#FFF;
-			stroke:#002B49:
-		}
-	}
-	@keyframes animacion_ET_logo{
-		0%{
-			stroke-dashoffset: 300;
-		}
-		80%{
-			stroke-dashoffset: 0;
-		}
-		100%{
-			fill:#FFF;
-			stroke:#002B49:
-		}
+		/* -webkit-animation: animacion_kK 6s forwards ease-in-out infinite alternate; */
+		/* -moz-animation: animacion_kK 6s forwards ease-in-out infinite alternate; */
+		/* -o-animation: animacion_kK 6s forwards ease-in-out infinite alternate; */
+		/* animation: animacion_kK 6s forwards ease-in-out infinite alternate; */
 	}
 ]]>
 </style>
