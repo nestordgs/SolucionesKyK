@@ -12,76 +12,15 @@
 	 xml:space="preserve">
 <style type="text/css">
 <![CDATA[
-	.st0{
-		fill:#002B49;
-		/* fill:transparent; */
-		stroke:#002947;
-		stroke-miterlimit:10;
-		stroke-dasharray:12;
-	}
-	.st1{
-		fill:#1F120D;
-		/* fill:transparent; */
-	}
-	.st2{fill:#FFF;
-		/* stroke:#FFFFFF; */
-		stroke-miterlimit:10;stroke-dasharray:12;}
-	.st3{
-		fill:#FFFFFF;
-		/* fill:transparent; */
-		/* stroke:#FFFFFF; */
-		/* stroke-miterlimit:10; */
-		/* stroke-dasharray:12; */
-	}
-	.st4{
-		fill:#FFFFFF;
-		/* fill:transparent; */
-	}
-	.st5{
-		display:none;opacity:0.2;
-		fill:#1F120D;
-		/* fill:transparent; */
-		enable-background:new    ;
-	}
-	.st6{
-		display:inline;
-	}
-	.st7{
-		fill:#FFF;
-		/* fill:transparent; */
-	}
-	.st8{
-		display:none;
-	}
-	
-	/* ET_LOGO */
-	/*.st0{
-		fill:#002B49;
-		/* fill:none; 
-		stroke:#FFF;
-		stroke-miterlimit:10;
-		stroke-dasharray:300;
-		stroke-dashoffset: 0;
-		stroke-width:2;
-		/* -webkit-animation: animacion_ET_logo 6s forwards ease-in-out 1s infinite alternate; */
-		/* -moz-animation: animacion_ET_logo 6s forwards ease-in-out 1s infinite alternate; */
-		/* -o-animation: animacion_ET_logo 6s forwards ease-in-out 1s infinite alternate; */
-		/* animation: animacion_ET_logo 6s forwards ease-in-out 1s infinite alternate; */
-	}
-	/* KYK */
-	/*.st2{
-		fill:#002B49;
-		/* fill:none; 
-		stroke:#FFF;
-		stroke-width:2;
-		stroke-dasharray:1000;
-		stroke-dashoffset: 0;
-		stroke-miterlimit:10;
-		/* -webkit-animation: animacion_kK 6s forwards ease-in-out infinite alternate; */
-		/* -moz-animation: animacion_kK 6s forwards ease-in-out infinite alternate; */
-		/* -o-animation: animacion_kK 6s forwards ease-in-out infinite alternate; */
-		/* animation: animacion_kK 6s forwards ease-in-out infinite alternate; */
-	}
+	.st0{fill:#002B49;stroke:#002947;stroke-miterlimit:10;stroke-dasharray:12;}
+	.st1{fill:#1F120D;}
+	.st2{fill:#FFF;stroke-miterlimit:10;stroke-dasharray:12;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#FFFFFF;}
+	.st5{display:none;opacity:0.2;fill:#1F120D;enable-background:new;}
+	.st6{display:inline;}
+	.st7{fill:#FFF;}
+	.st8{display:none;}
 ]]>
 </style>
 <polygon class="st5" points="395.999,612 42.662,612 219.331,306.001 395.999,0 572.666,306.001 749.338,612 "/>
