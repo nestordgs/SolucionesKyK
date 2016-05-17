@@ -1,0 +1,31 @@
+body{
+	background-color: #002947;
+	color: #FFF;
+	overflow-x: auto;
+}
+/* @font-face{font-family: 'stink_on_the_death';src: url('../fonts/stink_on_the_death.ttf');} */
+@font-face {font-family: "Adobe Caslon Pro";src: url("db22ddc23aac1cc8d1c8c71ffb02865b.eot"); src: url("db22ddc23aac1cc8d1c8c71ffb02865b.eot?#iefix") format("embedded-opentype"), url("db22ddc23aac1cc8d1c8c71ffb02865b.woff2") format("woff2"), url("db22ddc23aac1cc8d1c8c71ffb02865b.woff") format("woff"), url("db22ddc23aac1cc8d1c8c71ffb02865b.ttf") format("truetype"),url("db22ddc23aac1cc8d1c8c71ffb02865b.svg#Adobe Caslon Pro") format("svg");}
+@font-face {font-family: 'Fontello';src: url('../fonts/fontello.eot?9156505');src: url('../fonts/fontello.eot?9156505#iefix') format('embedded-opentype'),  url('../fonts/fontello.woff?9156505') format('woff'), url('../fonts/fontello.ttf?9156505') format('truetype'), url('../fonts/fontello.svg?9156505#fontello') format('svg');}
+.glyphicon-2{font-family: "Fontello";top: 1px;color:#FFF;font-style: normal;font-weight: normal;display: inline-block;line-height: 1;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
+body{
+	font-family:"Adobe Caslon Pro" !important;
+}
+a, a:active, a:hover, a:focus{text-decoration: none;}
+.message-font{font-size:2rem;}
+.logo{padding-top: 20%;}
+.message{padding-top:5%;}
+.message-style{text-align:center;}
+footer{margin-top:10%;}
+.social-networks{font-size: 200%;text-align: center;margin: 10px auto;}
+.min-footer{font-size: 1rem;text-align: center;}
+.rif{font-size: 7px;}
+@media (min-width: 768px){
+	.social-networks{text-align: right;font-size: 200%;}
+	.message-font{font-size: 3rem;}
+	body{font-size: 12px;}
+	.logo{padding-top: 5%;}
+}
+@media (min-width: 1024px){
+	body{font-size: 13px;}
+	footer{margin-top: 4.5%;}
+}
