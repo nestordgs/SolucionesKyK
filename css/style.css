@@ -323,6 +323,7 @@ dd{
   position: relative;
   top: 30%;
   z-index: 1001;
+  margin: auto;
 }
 #loader-wrapper .loader-section {
   -ms-transform: translateX(0);  /* IE 9 */
@@ -458,4 +459,32 @@ dd{
   -moz-animation: animacion_ET_logo 4s forwards ease-in-out;
   -o-animation: animacion_ET_logo 4s forwards ease-in-out;
   animation: animacion_ET_logo 4s forwards ease-in-out;
+}
+
+.modal-dialog-service{
+  width: auto;
+  margin: 0;
+}
+.modal-content-service{
+  border-radius: 0;
+}
+.micro-serv{
+  border-top: 1px solid #BABABA;
+  /* border-bottom: 1px solid #BABABA; */
+  width: 95%;
+  margin: 0 auto;
+}
+.micro-serv-top{
+  border-top: 1px solid #BABABA;
+  width: 95%;
+  margin: 0 auto;
+}
+
+.svg-container { 
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  padding-bottom: 100%; 
+  vertical-align: middle; 
+  overflow: hidden; 
 }
