@@ -129,7 +129,7 @@ validateForm = function () {
             },
             success: function(data) {
                 if (data.error) {
-                    $("#div_alerts").append(data.error);
+                    $("#message-error").append(data.failure);
                 }
                 else{
                     $('input').each(function () {
@@ -137,6 +137,14 @@ validateForm = function () {
                     });
                     $('#consulta').val('');
                     $('#comment').val('');
+                    $("#message-error").append(data.failure);
+                    /*if ($("#message-error").hasClass('alert-danger')) {
+                    	$("#message-error").removeClass('alert-danger');
+                    	$("#message-error").addClass('alert-success');
+                    }else{
+                    	$("#message-error").addClass('alert alert-success');
+                    }
+                    $("#message-error").append("Su comentario ha sido enviado con exito <span class=icon-ok glyphicon-2'></span>");*/
                 }
             }
         })
